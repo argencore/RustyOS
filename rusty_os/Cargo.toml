@@ -1,0 +1,9 @@
+[package]
+name = "rusty_os"
+version = "0.1.0"
+authors = ["Anthony Comstock <a32@pdx.edu>"]
+edition = "2018"
+
+[dependencies]
+
+
